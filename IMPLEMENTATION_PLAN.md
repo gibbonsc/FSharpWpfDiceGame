@@ -14,7 +14,7 @@
 
 2. **Project Configuration**
    - Update .csproj to support F# files
-   - Configure target framework: .NET 8.0
+   - Configure target framework: .NET 10.0
    - Set up package references (if needed)
 
 3. **Directory Structure**
